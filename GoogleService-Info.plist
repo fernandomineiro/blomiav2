@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591473798910-o6o6q5864jta3i8k6ndk3dqjml5bknjj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591473798910-o6o6q5864jta3i8k6ndk3dqjml5bknjj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKiRXaunrHYYnF4TPCvxLJwqhGy-2gYIk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591473798910</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appblomia</string>
+	<key>PROJECT_ID</key>
+	<string>blomia-cb5b8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>blomia-cb5b8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591473798910:ios:da1a2b4da126e120233faf</string>
+	<key>DATABASE_URL</key>
+	<string>https://blomia-cb5b8.firebaseio.com</string>
+</dict>
+</plist>

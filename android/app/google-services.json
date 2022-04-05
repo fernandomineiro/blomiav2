@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591473798910",
+    "firebase_url": "https://blomia-cb5b8.firebaseio.com",
+    "project_id": "blomia-cb5b8",
+    "storage_bucket": "blomia-cb5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591473798910:android:d3496195e443a687233faf",
+        "android_client_info": {
+          "package_name": "com.blomia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591473798910-0ea51u7v2td89d2nkjb3afriq081hlp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaS-RuuLppOLovRWQ15ika9jZogyx-mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591473798910-0ea51u7v2td89d2nkjb3afriq081hlp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
